@@ -1,15 +1,15 @@
 # BitBot v1.2.0 
 # UPDATED Works with Latest Version of iMacro 9.0.3
 
-**Win Up To $200 + In Free Bitcoins Every Hour 24/7! 100% Working [freebitco.in](https://freebitco.in/?r=6946665)
+**Win Up To $200 + In Free Bitcoins Every Hour 24/7! 100% Working [freebitco.in](https://freebitco.in/?r=6946665)**
 
 **I have found many "Bot" scripts for this popular btc faucet site around the net - but most are BS or *Just Not working or stopped working because of updates with the site, and or browsers and specifically the iMacros addon.. 
-* So I decided to develope my own BOT that works with these latest updates.
+* So I decided to develope my own BOT that works with these latest updates.**
 
 Given that the rolling is provably fair, you can hit the $200 or $20 payout but it requires lots of rolls to achieve that.
 That is where BITBOT Comes in .. Let BTCBOT roll for you 24/7 Hands Free! Set it and Forget It!
 
-**Tip: setup BITBOT to run on as many VPNs / VPS on different ip(s) as you wish.
+**Tip: setup BITBOT to run on as many VPNs / VPS on different ip(s) as you wish.**
 I have 60 ips (VPN) so this bot rolls every min 24/7/365 for me.
 Obviously: the More rolls the more you win! And Increase your chance of wining the Higher payouts!
 
