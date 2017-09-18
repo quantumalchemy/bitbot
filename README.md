@@ -1,13 +1,15 @@
-# BitBot
-** Win Up To $200 + In Free Bitcoins Every Hour 24/7! 100% Working [freebitco.in](https://freebitco.in/?r=6946665)
+# BitBot v1.2.0 
+# UPDATED Works with Latest Version of iMacro 9.0.3
 
-** I have found many "Bot" scripts for this popular btc faucet site around the net - but most are BS or *Just Not working or stopped working because of updates with the site, and or browsers and specifically the iMacros addon.. 
+**Win Up To $200 + In Free Bitcoins Every Hour 24/7! 100% Working [freebitco.in](https://freebitco.in/?r=6946665)
+
+**I have found many "Bot" scripts for this popular btc faucet site around the net - but most are BS or *Just Not working or stopped working because of updates with the site, and or browsers and specifically the iMacros addon.. 
 * So I decided to develope my own BOT that works with these latest updates.
 
 Given that the rolling is provably fair, you can hit the $200 or $20 payout but it requires lots of rolls to achieve that.
 That is where BITBOT Comes in .. Let BTCBOT roll for you 24/7 Hands Free! Set it and Forget It!
 
-** Tip: setup BITBOT to run on as many VPNs / VPS on different ip(s) as you wish.
+**Tip: setup BITBOT to run on as many VPNs / VPS on different ip(s) as you wish.
 I have 60 ips (VPN) so this bot rolls every min 24/7/365 for me.
 Obviously: the More rolls the more you win! And Increase your chance of wining the Higher payouts!
 
@@ -17,7 +19,7 @@ Anyway you get the idea. The more bots (rolls) the better the odds are in your f
 
 Disclaimer:  be warned this is gambling .. so you can experience different payouts, winnings than I do.
 But that said: you cant lose. You will win min 46 Satoshi on every roll instance..and that really adds up with 0 work on your part. Thats the best part!
-** Your Odds Increase Dramatically and Exponentially with BITBOT!
+**Your Odds Increase Dramatically and Exponentially with BITBOT!
 
 btw: Since I am giving BITBOT away for Free all I ask is that you use the link in step #1
 Thanks! And Good Luck!
@@ -28,7 +30,7 @@ Thanks! And Good Luck!
 ## Usage
 
 Step 1) Create a new Free Bitcoin Account: [freebitco.in](https://freebitco.in/?r=6946665)
-** You can Create more than 1 Account to Run Script on other Computer (other IP address)
+**You can Create more than 1 Account to Run Script on other Computer (other IP address)
 Please use [freebitco.in](https://freebitco.in/?r=6946665) to register each account
 
 Step 2) Sign up for an account on deathbycaptcha.com captcha service: http://www.deathbycaptcha.com
