@@ -3,8 +3,9 @@
 
 **Win Up To $200 + In Free Bitcoins Every Hour 24/7! 100% Working [freebitco.in](https://freebitco.in/?r=6946665)**
 
-**I have found many "Bot" scripts for this popular btc faucet site around the net - but most are BS or *Just Not working or stopped working because of updates with the site, and or browsers and specifically the iMacros addon.. 
-* So I decided to develope my own BOT that works with these latest updates.**
+**I have found many "Bot" scripts for this popular btc faucet site around the net - but most are BS or *Just Not working or stopped working because of updates with the site, and or browsers and specifically the iMacros addon.. **
+
+#### So I decided to develope my own BOT that works with these latest updates.
 
 Given that the rolling is provably fair, you can hit the $200 or $20 payout but it requires lots of rolls to achieve that.
 That is where BITBOT Comes in .. Let BTCBOT roll for you 24/7 Hands Free! Set it and Forget It!
@@ -19,7 +20,7 @@ Anyway you get the idea. The more bots (rolls) the better the odds are in your f
 
 Disclaimer:  be warned this is gambling .. so you can experience different payouts, winnings than I do.
 But that said: you cant lose. You will win min 46 Satoshi on every roll instance..and that really adds up with 0 work on your part. Thats the best part!
-**Your Odds Increase Dramatically and Exponentially with BITBOT!
+**Your Odds Increase Dramatically and Exponentially with BITBOT!**
 
 btw: Since I am giving BITBOT away for Free all I ask is that you use the link in step #1
 Thanks! And Good Luck!
@@ -45,7 +46,7 @@ or if you upload to a public hosting / server edit dbc.php
 ** See // SECURITY
 Edit / Add your ip(s) to allow your ips(s) access only - uncomment code.
 
-Step 4) In folder http ->  Upload file: deathbycaptcha.php --> to same location as dbc.php ** MUST BE SAME AS dbc.php
+Step 4) In folder http ->  Upload file: deathbycaptcha.php --> to same location as dbc.php ** MUST BE SAME AS dbc.php **
 
 Step 5) Install ADDON: iMacros: https://addons.mozilla.org/en-US/firefox/addon/imacros-for-firefox/
 
